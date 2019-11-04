@@ -1,0 +1,5 @@
+package-lock.json
+yarn-error.log
+node_modules/
+/gatsby-node.js
+.DS_Store

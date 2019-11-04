@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "noEmitOnError": true,
+    "module": "commonjs",
+    "outDir": "./",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+  },
+  "exclude": [],
+}

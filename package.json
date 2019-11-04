@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-github-contributors",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Gatsby source that fetches all the contributors on a GitHub repository",
   "repository": "git@github.com:patrick91/gatsby-source-github-contributors.git",
   "author": "Patrick Arminio <patrick.arminio@gmail.com>",
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "camelcase-keys": "^6.1.0",
-    "github-contributors": "^0.4.1"
+    "github-base": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^12.12.5",

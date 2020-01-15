@@ -35,7 +35,7 @@ exports.sourceNodes = async (
       id: createNodeId(node.id),
       internal: {
         type: "GitHubContributor",
-        contentDigest: createContentDigest(node.id)
+        contentDigest: createContentDigest('' + node.id)
       }
     });
   });

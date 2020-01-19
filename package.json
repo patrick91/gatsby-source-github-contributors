@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-github-contributors",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Gatsby source that fetches all the contributors on a GitHub repository",
   "repository": "git@github.com:patrick91/gatsby-source-github-contributors.git",
   "author": "Patrick Arminio <patrick.arminio@gmail.com>",
